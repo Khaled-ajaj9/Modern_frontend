@@ -142,7 +142,7 @@ const Footer = () => {
               variants={fadeIn("left", 1.0)}
               className="text-gray-600 text-sm"
             >
-              Created by Md Al Mamun
+              Created by Khaled Ajaj
             </motion.p>
           </motion.div>
         </motion.div>
